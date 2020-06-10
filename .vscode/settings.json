@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp"
+    }
+}
